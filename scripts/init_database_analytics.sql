@@ -1,7 +1,7 @@
 /*
 ========================================================
 Purpose:
-- Creates the gold2 database if it does not exist
+- Creates the gold database if it does not exist
 - Loads data from CSV files
 
 CSV Files:
